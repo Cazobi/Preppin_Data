@@ -1,8 +1,8 @@
 <h6><a href="../Week_2/README.md">◀  Prev Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../Week_4/README.md">Next Week  ▶</a></h6>
 
-# Preppin' Data Week 05 - Balances, statements, and complaints
+# Preppin' Data Week 03 - Mobile phone contract revenue
 
-[Challenge description](https://preppindata.blogspot.com/2019/03/2019-week-5.html)
+[Challenge description](https://preppindata.blogspot.com/2019/03/2019-week-3.html)
 
 What I learned/practiced this week:
 *
