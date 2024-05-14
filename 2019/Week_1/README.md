@@ -1,4 +1,4 @@
-<h6><a href="..\preppin-data-LYLY-LW\README.md">◀  Prev Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="..\preppin-data-NYNY-NW\README.md">Next Week  ▶</a></h6>
+<h6> &nbsp;&nbsp;&nbsp;<a href="../Week_2/README.md">Next Week  ▶</a></h6>
 
 # Preppin' Data Week 01 - What colour cars are selling?
 
