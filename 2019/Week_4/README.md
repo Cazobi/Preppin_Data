@@ -2,7 +2,7 @@
 
 # Preppin' Data Week 04 - NBA player profile (pane) analysis
 
-[Challenge description](https://preppindata.blogspot.com/2019/02/2019-week-3.html)
+[Challenge description](https://preppindata.blogspot.com/2019/02/2019-week-4.html)
 
 What I learned/practiced this week:
 *

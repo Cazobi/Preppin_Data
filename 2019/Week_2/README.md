@@ -2,7 +2,7 @@
 
 # Preppin' Data Week 02 - Windy, wet or both?
 
-[Challenge description](https://preppindata.blogspot.com/2019/02/2019-week-3.html)
+[Challenge description](https://preppindata.blogspot.com/2019/02/2019-week-2.html)
 
 What I learned/practiced this week:
 *
