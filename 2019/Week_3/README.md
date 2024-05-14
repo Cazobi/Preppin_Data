@@ -2,7 +2,7 @@
 
 # Preppin' Data Week 03 - Mobile phone contract revenue
 
-[Challenge description](https://preppindata.blogspot.com/2019/03/2019-week-3.html)
+[Challenge description](https://preppindata.blogspot.com/2019/02/2019-week-3.html)
 
 What I learned/practiced this week:
 *
