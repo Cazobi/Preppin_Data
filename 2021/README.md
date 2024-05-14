@@ -1,4 +1,4 @@
-# All Challenges from 2019
+# All Challenges from 2021
 
 Click on the challenge hyperlink to view solutions
 
