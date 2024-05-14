@@ -12,8 +12,8 @@ What I learned/practiced this week:
 ## Tableau Prep
 <i>click the image to view the code</i><br>
 <br>
-<a href="preppin-data-YYYY-WW.py">
-<img src="img-python-code-YYYY-WW.png?raw=true" alt="Tableau Prep Workflow">
+<a href="Challenge 2019 week 3.tflx">
+<img src="PD 2019 wk 3.png?raw=true" alt="Tableau Prep Workflow">
 </a>
 
 ## SQL
