@@ -11,6 +11,6 @@ Click on the challenge hyperlink to view solutions
 |[Week 21]|[Week 22]|[Week 23]|[Week 24]|[Week 25]|
 |[Week 26]|[Week 27]|[Week 28]|[Week 29]|[Week 30]|
 |[Week 31]|[Week 32]|[Week 33]|[Week 34]|[Week 35]|
-|[Week 36]|[Week 37]|[Week 38]|[Week 39]|[Week 40]|
-|[Week 41]|[Week 42]|[Week 43]|[Week 44]|[Week 45]|
+|[Week 36]|[Week 37]|[Week 38]|[Week 39]|[Week 40](Week_40)|
+|[Week 41]|[Week 42]|[Week 43]|[Week 44]|[Week 45](Week_45)|
 |[Week 46]|||||
