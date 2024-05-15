@@ -1,11 +1,23 @@
 # Preppin' Data Challenges Using Tableau Prep and SQL (Snowflake)
 
+[Preppin' Data Challenges](https://preppindata.blogspot.com/) are challenges that are posted weekly intended for Tableau Prep. I am using the challenges to practice SQL as well as Tableau Prep
+
+# Contents
+* SQL (Snowflake) Function/Method use
+* Challenge Lists: [2019](#2019)  |  2020  |  2021  |  2022  |  2023  |  2024
+
+# SQL  Function/Method Usage
+
+|Category|Function/Method|Challenge
+|---|---|---|
+  
+
 <details>
 <summary>
   
 # 2019 Challenges
 </summary>  
-
+<a id="2019"></a>
 Click on the challenge hyperlink to view solutions
 
 |||Challenges|||
