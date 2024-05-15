@@ -2,7 +2,7 @@
 
 # Preppin' Data Week 41 - Dynamic Times Tables
 
-[Challenge description](https://preppindata.blogspot.com/2019/02/2019-week-3.html)
+[Challenge description](https://preppindata.blogspot.com/2022/10/2022-week-41-dynamic-times-tables.html)
 
 What I learned/practiced this week:
 *

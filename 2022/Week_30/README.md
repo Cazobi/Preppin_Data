@@ -2,7 +2,7 @@
 
 # Preppin' Data Week 30 - C&BSCo Actual Sales Values
 
-[Challenge description](https://preppindata.blogspot.com/2019/02/2019-week-3.html)
+[Challenge description](https://preppindata.blogspot.com/2022/07/2022-week-30-c-actual-sales-values.html)
 
 What I learned/practiced this week:
 *
