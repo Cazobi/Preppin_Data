@@ -9,26 +9,28 @@
 
 # SQL Function/Method Usage
 
-| Category                   | Function/Method | Challenge                           |
-| -------------------------- | --------------- | ----------------------------------- | 
-| Data Retrieval             |                 |                                     |
-| Data Manipulation/Function |                 |                                     |
-|                            | Extract         | 2021: [W01](2021/Week_1/README.md), |
-|                            | Split           | 2021: [W01](2021/Week_1/README.md), |
-| Conditional Logic/Function |                 |                                     |
-|                            | Case            | 2021: [W01](2021/Week_1/README.md), |
-| Query Clause               |                 |                                     |
-|                            | Where           | 2021: [W01](2021/Week_1/README.md), |
-|                            | Group By        | 2021: [W02](2021/Week_2/README.md), |
-| String                     | Regexp_Replace  | 2021: [W02](2021/Week_2/README.md), |
-| Numeric                    | Sum             | 2021: [W02](2021/Week_2/README.md), |
-|                            | Round           | 2021: [W02](2021/Week_2/README.md), |
-| Aggregate                  | Avg             | 2021: [W02](2021/Week_2/README.md), |
-| Date and Time              | Datediff        | 2021: [W02](2021/Week_2/README.md), |
-|                            | To_Date         | 2021: [W02](2021/Week_2/README.md), |
-|                            |                 |                                     |
-<!--                       | System          |                                     |     |
-| Geospatial                 |                 |                                     | --> |
+| Category                   | Function/Method              | Challenge                                                         |
+| -------------------------- | ---------------------------- | ----------------------------------------------------------------- | --- |
+| Data Retrieval             | Create or Replace Temp Table | 2021: [W03](2021/Week_3/README.md),                               |
+| Data Manipulation/Function | Union All                    | 2021: [W03](2021/Week_3/README.md),                               |
+|                            | Extract                      | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md), |
+|                            | Split                        | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md), |
+| Conditional Logic/Function |                              |                                                                   |
+|                            | Case                         | 2021: [W01](2021/Week_1/README.md),                               |
+| Query Clause               |                              |                                                                   |
+|                            | Where                        | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md), |
+|                            | Group By                     | 2021: [W02](2021/Week_2/README.md), [W03](2021/Week_3/README.md), |
+|                            | Unpivot                      | 2021: [W03](2021/Week_3/README.md),                               |
+| String                     | Regexp_Replace               | 2021: [W02](2021/Week_2/README.md),                               |
+| Numeric                    | Sum                          | 2021: [W02](2021/Week_2/README.md),                               |
+|                            | Round                        | 2021: [W02](2021/Week_2/README.md),                               |
+| Aggregate                  | Avg                          | 2021: [W02](2021/Week_2/README.md),                               |
+|                            | Sum                          | 2021: [W03](2021/Week_3/README.md),                               |
+| Date and Time              | Datediff                     | 2021: [W02](2021/Week_2/README.md),                               |
+|                            | To_Date                      | 2021: [W02](2021/Week_2/README.md),                               |
+|                            |                              |                                                                   |
+| <!--                       | System                       |                                                                   |     |
+| Geospatial                 |                              |                                                                   | --> |
 
 <details>
 <summary>

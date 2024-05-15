@@ -4,12 +4,6 @@
 
 [Challenge description](https://preppindata.blogspot.com/2021/01/2021-week-3.html)
 
-What I learned/practiced this week:
-
--
--
--
-
 ## SQL
 
 <i>click the image to view the code</i><br>
