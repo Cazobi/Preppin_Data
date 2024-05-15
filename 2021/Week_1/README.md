@@ -4,11 +4,6 @@
 
 [Challenge description](https://preppindata.blogspot.com/2021/01/2021-week-1.html)
 
-What I learned/practiced this week:
-*
-*
-*
-
 ## Tableau Prep
 <i>click the image to download the workflow</i><br>
 <br>
