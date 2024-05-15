@@ -19,6 +19,7 @@
 |Query Clause|||
 ||Select|[2021_wk01](2021/Week_1/README.md), |
 ||As|[2021_wk01](2021/Week_1/README.md), |
+||From|[2021_wk01](2021/Week_1/README.md), |
 ||Where|[2021_wk01](2021/Week_1/README.md), |
 ||||
 <!-- |System|||
