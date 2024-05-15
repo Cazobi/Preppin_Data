@@ -10,15 +10,15 @@ What I learned/practiced this week:
 *
 
 ## Tableau Prep
-<i>click the image to view the code</i><br>
+<i>click the image to download the workflow</i><br>
 <br>
 <a href="Challenge 2021 week 1.tflx">
 <img src="PD 2021 wk 1.png?raw=true" alt="Tableau Prep Workflow">
 </a>
 
 ## SQL
-<i>click the image to download the workflow</i><br>
+<i>click the image to view the code</i><br>
 <br>
-<a href="preppin-data-YYYY-WW.yxzp">
-<img src="img-alteryx-YYYY-WW.png?raw=true" alt="SQL Code">
+<a href="Snowflake SQL">
+<img src="PD 2021 wk 1 SQL.png?raw=true" alt="SQL Code">
 </a>
