@@ -12,15 +12,15 @@
 |---|---|---|
 |Data Retrieval|||
 |Data Manipulation/Function|||
-||Extract|[2021_wk01](2021/Week_1/README.md), |
-||Split|[2021_wk01](2021/Week_1/README.md), |
+||Extract|2021: [W01](2021/Week_1/README.md), |
+||Split|2021: [W01](2021/Week_1/README.md), |
 |Conditional Logic/Function|||
-||Case|[2021_wk01](2021/Week_1/README.md), |
+||Case|2021: [W01](2021/Week_1/README.md), |
 |Query Clause|||
-||Select|[2021_wk01](2021/Week_1/README.md), |
-||As|[2021_wk01](2021/Week_1/README.md), |
-||From|[2021_wk01](2021/Week_1/README.md), |
-||Where|[2021_wk01](2021/Week_1/README.md), |
+||Select|2021: [W01](2021/Week_1/README.md), |
+||As|2021: [W01](2021/Week_1/README.md), |
+||From|2021: [W01](2021/Week_1/README.md), |
+||Where|2021: [W01](2021/Week_1/README.md), |
 ||||
 <!-- |System|||
 |Geospatial||| -->
