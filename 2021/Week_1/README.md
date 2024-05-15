@@ -19,6 +19,6 @@ What I learned/practiced this week:
 ## SQL
 <i>click the image to view the code</i><br>
 <br>
-<a href="Snowflake SQL">
+<a href="Snowflake SQL.sql">
 <img src="PD 2021 wk 1 SQL.png?raw=true" alt="SQL Code">
 </a>
