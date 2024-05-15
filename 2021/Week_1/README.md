@@ -4,11 +4,6 @@
 
 [Challenge description](https://preppindata.blogspot.com/2021/01/2021-week-1.html)
 
-What I learned/practiced this week:
-*
-*
-*
-
 ## Tableau Prep
 <i>click the image to download the workflow</i><br>
 <br>
@@ -19,6 +14,6 @@ What I learned/practiced this week:
 ## SQL
 <i>click the image to view the code</i><br>
 <br>
-<a href="Snowflake SQL">
+<a href="Snowflake SQL.sql">
 <img src="PD 2021 wk 1 SQL.png?raw=true" alt="SQL Code">
 </a>

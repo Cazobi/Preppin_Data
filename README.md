@@ -1,5 +1,32 @@
 # Preppin' Data Challenges Using Tableau Prep and SQL (Snowflake)
 
+[Preppin' Data Challenges](https://preppindata.blogspot.com/) are challenges that are posted weekly intended for Tableau Prep. I am using the challenges to practice SQL as well as Tableau Prep
+
+# Contents
+* SQL (Snowflake) Function/Method use
+* Challenge Lists
+
+# SQL  Function/Method Usage
+
+|Category|Function/Method|Challenge
+|---|---|---|
+|Data Retrieval|||
+|Data Manipulation/Function|||
+||Extract|2021: [W01](2021/Week_1/README.md), |
+||Split|2021: [W01](2021/Week_1/README.md), |
+|Conditional Logic/Function|||
+||Case|2021: [W01](2021/Week_1/README.md), |
+|Query Clause|||
+||Select|2021: [W01](2021/Week_1/README.md), |
+||As|2021: [W01](2021/Week_1/README.md), |
+||From|2021: [W01](2021/Week_1/README.md), |
+||Where|2021: [W01](2021/Week_1/README.md), |
+||||
+<!-- |System|||
+|Geospatial||| -->
+
+  
+
 <details>
 <summary>
   
