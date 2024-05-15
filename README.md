@@ -13,11 +13,12 @@
   
 
 <details>
+<a id="2019link"></a>
 <summary>
   
 # 2019 Challenges
 </summary>  
-<a id="2019link"></a>
+
 Click on the challenge hyperlink to view solutions
 
 |||Challenges|||
