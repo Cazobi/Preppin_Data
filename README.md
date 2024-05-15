@@ -4,7 +4,7 @@
 
 # Contents
 * SQL (Snowflake) Function/Method use
-* Challenge Lists: [2019](#2019)  |  2020  |  2021  |  2022  |  2023  |  2024
+* Challenge Lists: [2019](#2019)  |  2020  |  2021  |  2022  |  2023  |  [2024](#2024)
 
 # SQL  Function/Method Usage
 
@@ -127,7 +127,7 @@ Click on the challenge hyperlink to view solutions
   
 # 2024 Challenges
 </summary>  
-
+<a id="2024"></a>
 Click on the challenge hyperlink to view solutions
 
 |||Challenges|||
