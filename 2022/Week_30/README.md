@@ -1,6 +1,6 @@
-<h6><a href="..\preppin-data-LYLY-LW\README.md">◀  Prev Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="..\preppin-data-NYNY-NW\README.md">Next Week  ▶</a></h6>
+<h6><a href="../Week_29/README.md">◀  Prev Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../Week_31/README.md">Next Week  ▶</a></h6>
 
-# Preppin' Data Week 03 - Mobile phone contract revenue
+# Preppin' Data Week 30 - C&BSCo Actual Sales Values
 
 [Challenge description](https://preppindata.blogspot.com/2019/02/2019-week-3.html)
 
