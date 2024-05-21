@@ -10,7 +10,7 @@
 # SQL Function/Method Usage
 
 | Category                   | Function/Method              | Challenge                                                         |
-| -------------------------- | ---------------------------- | ----------------------------------------------------------------- | --- |
+| -------------------------- | ---------------------------- | ----------------------------------------------------------------- |
 | Data Retrieval             | Create or Replace Temp Table | 2021: [W03](2021/Week_3/README.md),                               |
 | Data Manipulation/Function | Union All                    | 2021: [W03](2021/Week_3/README.md),                               |
 |                            | Extract                      | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md), |
@@ -26,8 +26,7 @@
 | Date and Time              | Datediff                     | 2021: [W02](2021/Week_2/README.md),                               |
 |                            | To_Date                      | 2021: [W02](2021/Week_2/README.md),                               |
 |                            |                              |                                                                   |
-| <!--                       | System                       |                                                                   |     |
-| Geospatial                 |                              |                                                                   | --> |
+
 
 <details>
 <summary>
