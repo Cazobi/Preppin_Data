@@ -1,8 +1,8 @@
 <h6> &nbsp;&nbsp;&nbsp;<a href="../Week_2/README.md">Next Week  ▶</a></h6>
 
-# Preppin' Data Week 01 - Prep Air's Flow Card
+# Preppin' Data Week 02 - Average Price Analysis
 
-[Challenge description](https://preppindata.blogspot.com/2024/01/2024-week-1-prep-airs-flow-card.html)
+[Challenge description](https://preppindata.blogspot.com/2024/01/2024-week-2-average-price-analysis.html)
 
 ## SQL
 
@@ -19,3 +19,7 @@
 <a href="Challenge 2024 week 2.tflx">
 <img src="PD 2024 wk 2.png?raw=true" alt="Tableau Prep Workflow">
 </a>
+
+### Thoughts
+
+This was really challenging for me because I had to change my way of thinking. The challenge suggested Unpivoting, and then Pivoting again on a separate column as well as several unions. I already knew that solving these challenges in Snowflake would be different to doing it in Tableau Prep, but I went in with the expection to do the double transformation and this took me ages to let go off. Once I decided to address it right from the Temp table, things wen't much smoother. The main issue was that it seems you can't directl'y use a subquery or dynamic SQL inside the 'PIVOT' clause. I'm glad this is over 😅😅
