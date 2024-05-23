@@ -1,4 +1,4 @@
-<h6> &nbsp;&nbsp;&nbsp;<a href="../Week_2/README.md">Next Week  ▶</a></h6>
+<h6><a href="../Week_1/README.md">◀  Prev Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../Week_3/README.md">Next Week  ▶</a></h6>
 
 # Preppin' Data Week 02 - Average Price Analysis
 
