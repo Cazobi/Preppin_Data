@@ -10,24 +10,29 @@
 # SQL Function/Method Usage
 
 | Category          | Function/Method              | Challenge                                                               |
-| ----------------- | ---------------------------- | ----------------------------------------------------------------------- |
-| Data Retrieval    | Create or Replace Temp Table | 2021: [W03](2021/Week_3/README.md),                                     |
-| Data Manipulation | Union All                    | 2021: [W03](2021/Week_3/README.md),                                     |
-|                   | Extract                      | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md),       |
-|                   | Split                        | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md),       |
-|                   | Unpivot                      | 2021: [W03](2021/Week_3/README.md),                                     |
-| Conditional Logic | Case                         | 2021: [W01](2021/Week_1/README.md),                                     |
-|                   | IFF                          | 2024: [W01](2024/Week_1/README.md),                                     |
-| Query Clause      | Where                        | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md),       |
+| --- | ---- | ---- |
+| Data Retrieval    | Create or Replace Temp Table | 2021: [W03](2021/Week_3/README.md),  2024: [W01](2024/Week_1/README.md),  [W02](2024/Week_2/README.md),       |
+| Data Manipulation | Union / Union All    | 2021: [W03](2021/Week_3/README.md), 2024: [W01](2024/Week_1/README.md),  [W02](2024/Week_2/README.md),       |
+|                   | Extract       | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md),       |
+|      | Split     | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md),       |
+|    | Pivot      | 2024: [W01](2024/Week_1/README.md),  [W02](2024/Week_2/README.md),        |
+|    | Unpivot         | 2021: [W03](2021/Week_3/README.md),                                     |
+| Conditional Logic | Case   | 2021: [W01](2021/Week_1/README.md),   2024: [W02](2024/Week_2/README.md),        |
+|      | IFF       | 2024: [W01](2024/Week_1/README.md), [W02](2024/Week_2/README.md),               |
+| Query Clauses      | Where                        | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md),       |
 |                   | Group By                     | 2021: [W02](2021/Week_2/README.md), [W03](2021/Week_3/README.md),       |
 | String            | Regexp_Replace               | 2021: [W02](2021/Week_2/README.md),                                     |
 |                   | Split_Part                   | 2024: [W01](2024/Week_1/README.md),                                     |
 | Numeric           | Round                        | 2021: [W02](2021/Week_2/README.md), 2024: [W01](2024/Week_1/README.md), |
-| Aggregate         | Avg                          | 2021: [W02](2021/Week_2/README.md),                                     |
-|                   | Sum                          | 2021: [W02](2021/Week_2/README.md), [W03](2021/Week_3/README.md),       |
+| Aggregate         | Avg      | 2021: [W02](2021/Week_2/README.md),                                     |
+|       | Sum        | 2021: [W02](2021/Week_2/README.md), [W03](2021/Week_3/README.md),       |
+|       | Min        | 2024: [W02](2024/Week_2/README.md),       |
+|       | Median       | 2024: [W02](2024/Week_2/README.md),        |
+|       | Max       | 2024: [W02](2024/Week_2/README.md),        |
 | Date and Time     | Datediff                     | 2021: [W02](2021/Week_2/README.md),                                     |
-|                   | To_Date                      | 2021: [W02](2021/Week_2/README.md),                                     |
-|                   | Date                         | 2024: [W01](2024/Week_1/README.md),                                     |
+|     | To_Date     | 2021: [W02](2021/Week_2/README.md),  2024: [W02](2024/Week_2/README.md),           |
+|   | Date  | 2024: [W01](2024/Week_1/README.md), [W02](2024/Week_2/README.md),     |
+|   | Quarter  | 2024: [W02](2024/Week_2/README.md),     |
 
 <details>
 <summary>
