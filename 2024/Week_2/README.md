@@ -9,13 +9,13 @@
 <i>click the image to view the code</i><br>
 <br>
 <a href="Snowflake SQL.sql">
-<img src="PD 2024 wk 1 SQL.png?raw=true" alt="SQL Code">
+<img src="PD 2024 wk 2 SQL.png?raw=true" alt="SQL Code">
 </a>
 
 ## Tableau Prep
 
 <i>click the image to download the workflow</i><br>
 <br>
-<a href="Challenge 2024 week 1.tflx">
-<img src="PD 2024 wk 1.png?raw=true" alt="Tableau Prep Workflow">
+<a href="Challenge 2024 week 2.tflx">
+<img src="PD 2024 wk 2.png?raw=true" alt="Tableau Prep Workflow">
 </a>
