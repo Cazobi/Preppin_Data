@@ -10,15 +10,15 @@
 # SQL Function/Method Usage
 
 | Category          | Function/Method              | Challenge                                                               |
-| ----------------- | ---------------------------- | ----------------------------------------------------------------------- |
+| --- | ---- | ---- |
 | Data Retrieval    | Create or Replace Temp Table | 2021: [W03](2021/Week_3/README.md),                                     |
-| Data Manipulation | Union All                    | 2021: [W03](2021/Week_3/README.md),                                     |
-|                   | Extract                      | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md),       |
+| Data Manipulation | Union All    | 2021: [W03](2021/Week_3/README.md),                                     |
+|                   | Extract       | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md),       |
 |                   | Split                        | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md),       |
 |                   | Unpivot                      | 2021: [W03](2021/Week_3/README.md),                                     |
 | Conditional Logic | Case                         | 2021: [W01](2021/Week_1/README.md),                                     |
 |                   | IFF                          | 2024: [W01](2024/Week_1/README.md),                                     |
-| Query Clause      | Where                        | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md),       |
+| Query Clauses      | Where                        | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md),       |
 |                   | Group By                     | 2021: [W02](2021/Week_2/README.md), [W03](2021/Week_3/README.md),       |
 | String            | Regexp_Replace               | 2021: [W02](2021/Week_2/README.md),                                     |
 |                   | Split_Part                   | 2024: [W01](2024/Week_1/README.md),                                     |
