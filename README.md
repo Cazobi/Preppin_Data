@@ -9,30 +9,30 @@
 
 # SQL Function/Method Usage
 
-| Category          | Function/Method              | Challenge                                                               |
-| --- | ---- | ---- |
-| Data Retrieval    | Create or Replace Temp Table | 2021: [W03](2021/Week_3/README.md),  2024: [W01](2024/Week_1/README.md),  [W02](2024/Week_2/README.md),       |
-| Data Manipulation | Union / Union All    | 2021: [W03](2021/Week_3/README.md), 2024: [W01](2024/Week_1/README.md),  [W02](2024/Week_2/README.md),       |
-|                   | Extract       | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md),       |
-|      | Split     | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md),       |
-|    | Pivot      | 2024: [W01](2024/Week_1/README.md),  [W02](2024/Week_2/README.md),        |
-|    | Unpivot         | 2021: [W03](2021/Week_3/README.md),                                     |
-| Conditional Logic | Case   | 2021: [W01](2021/Week_1/README.md),   2024: [W02](2024/Week_2/README.md),        |
-|      | IFF       | 2024: [W01](2024/Week_1/README.md), [W02](2024/Week_2/README.md),               |
-| Query Clauses      | Where                        | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md),       |
-|                   | Group By                     | 2021: [W02](2021/Week_2/README.md), [W03](2021/Week_3/README.md),       |
-| String            | Regexp_Replace               | 2021: [W02](2021/Week_2/README.md),                                     |
-|                   | Split_Part                   | 2024: [W01](2024/Week_1/README.md),                                     |
-| Numeric           | Round                        | 2021: [W02](2021/Week_2/README.md), 2024: [W01](2024/Week_1/README.md), |
-| Aggregate         | Avg      | 2021: [W02](2021/Week_2/README.md),                                     |
-|       | Sum        | 2021: [W02](2021/Week_2/README.md), [W03](2021/Week_3/README.md),       |
-|       | Min        | 2024: [W02](2024/Week_2/README.md),       |
-|       | Median       | 2024: [W02](2024/Week_2/README.md),        |
-|       | Max       | 2024: [W02](2024/Week_2/README.md),        |
-| Date and Time     | Datediff                     | 2021: [W02](2021/Week_2/README.md),                                     |
-|     | To_Date     | 2021: [W02](2021/Week_2/README.md),  2024: [W02](2024/Week_2/README.md),           |
-|   | Date  | 2024: [W01](2024/Week_1/README.md), [W02](2024/Week_2/README.md),     |
-|   | Quarter  | 2024: [W02](2024/Week_2/README.md),     |
+| Category          | Function/Method              | Challenge                                                                                             |
+| ----------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Data Retrieval    | Create or Replace Temp Table | 2021: [W03](2021/Week_3/README.md), 2024: [W01](2024/Week_1/README.md), [W02](2024/Week_2/README.md), |
+| Data Manipulation | Union / Union All            | 2021: [W03](2021/Week_3/README.md), 2024: [W01](2024/Week_1/README.md), [W02](2024/Week_2/README.md), |
+|                   | Extract                      | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md),                                     |
+|                   | Split                        | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md),                                     |
+|                   | Pivot                        | 2024: [W01](2024/Week_1/README.md), [W02](2024/Week_2/README.md),                                     |
+|                   | Unpivot                      | 2021: [W03](2021/Week_3/README.md),                                                                   |
+| Conditional Logic | Case                         | 2021: [W01](2021/Week_1/README.md), 2024: [W02](2024/Week_2/README.md),                               |
+|                   | IFF                          | 2024: [W01](2024/Week_1/README.md), [W02](2024/Week_2/README.md),                                     |
+| Query Clauses     | Where                        | 2021: [W01](2021/Week_1/README.md), [W03](2021/Week_3/README.md),                                     |
+|                   | Group By                     | 2021: [W02](2021/Week_2/README.md), [W03](2021/Week_3/README.md),                                     |
+| String            | Regexp_Replace               | 2021: [W02](2021/Week_2/README.md),                                                                   |
+|                   | Split_Part                   | 2024: [W01](2024/Week_1/README.md),                                                                   |
+| Numeric           | Round                        | 2021: [W02](2021/Week_2/README.md), 2024: [W01](2024/Week_1/README.md),                               |
+| Aggregate         | Avg                          | 2021: [W02](2021/Week_2/README.md),                                                                   |
+|                   | Sum                          | 2021: [W02](2021/Week_2/README.md), [W03](2021/Week_3/README.md),                                     |
+|                   | Min                          | 2024: [W02](2024/Week_2/README.md),                                                                   |
+|                   | Median                       | 2024: [W02](2024/Week_2/README.md),                                                                   |
+|                   | Max                          | 2024: [W02](2024/Week_2/README.md),                                                                   |
+| Date and Time     | Datediff                     | 2021: [W02](2021/Week_2/README.md),                                                                   |
+|                   | To_Date                      | 2021: [W02](2021/Week_2/README.md), 2024: [W02](2024/Week_2/README.md),                               |
+|                   | Date                         | 2024: [W01](2024/Week_1/README.md), [W02](2024/Week_2/README.md),                                     |
+|                   | Quarter                      | 2024: [W02](2024/Week_2/README.md),                                                                   |
 
 <details>
 <summary>
@@ -157,17 +157,17 @@ Click on the challenge hyperlink to view solutions
 
 Click on the challenge hyperlink to view solutions
 
-|                                 |                                 | Challenges                      |           |           |
-| ------------------------------- | ------------------------------- | ------------------------------- | --------- | --------- |
-| [Week 1](2024/Week_1/README.md) | [Week 2](2024/Week_2/README.md) | [Week 3](2024/Week_3/README.md) | [Week 4]  | [Week 5]  |
-| [Week 6]                        | [Week 7]                        | [Week 8]                        | [Week 9]  | [Week 10] |
-| [Week 11]                       | [Week 12]                       | [Week 13]                       | [Week 14] | [Week 15] |
-| [Week 16]                       | [Week 17]                       | [Week 18]                       | [Week 19] | [Week 20] |
-| [Week 21]                       | [Week 22]                       | [Week 23]                       | [Week 24] | [Week 25] |
-| [Week 26]                       | [Week 27]                       | [Week 28]                       | [Week 29] | [Week 30] |
-| [Week 31]                       | [Week 32]                       | [Week 33]                       | [Week 34] | [Week 35] |
-| [Week 36]                       | [Week 37]                       | [Week 38]                       | [Week 39] | [Week 40] |
-| [Week 41]                       | [Week 42]                       | [Week 43]                       | [Week 44] | [Week 45] |
-| [Week 46]                       |                                 |                                 |           |           |
+|                                 |                                 | Challenges                      |                                 |           |
+| ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | --------- |
+| [Week 1](2024/Week_1/README.md) | [Week 2](2024/Week_2/README.md) | [Week 3](2024/Week_3/README.md) | [Week 4](2024/Week_4/README.md) | [Week 5]  |
+| [Week 6]                        | [Week 7]                        | [Week 8]                        | [Week 9]                        | [Week 10] |
+| [Week 11]                       | [Week 12]                       | [Week 13]                       | [Week 14]                       | [Week 15] |
+| [Week 16]                       | [Week 17]                       | [Week 18]                       | [Week 19]                       | [Week 20] |
+| [Week 21]                       | [Week 22]                       | [Week 23]                       | [Week 24]                       | [Week 25] |
+| [Week 26]                       | [Week 27]                       | [Week 28]                       | [Week 29]                       | [Week 30] |
+| [Week 31]                       | [Week 32]                       | [Week 33]                       | [Week 34]                       | [Week 35] |
+| [Week 36]                       | [Week 37]                       | [Week 38]                       | [Week 39]                       | [Week 40] |
+| [Week 41]                       | [Week 42]                       | [Week 43]                       | [Week 44]                       | [Week 45] |
+| [Week 46]                       |                                 |                                 |                                 |           |
 
 </details>
